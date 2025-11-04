@@ -1,66 +1,75 @@
+<!-- Header Section -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+Abdul+Waheed;Full+Stack+Developer;AI+Automation+Engineer;Building+Smart+Digital+Solutions!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=👋+Hi!+I'm+Abdul+Waheed;Full+Stack+Web+Developer;AI+Automation+Engineer;Building+Intelligent+and+Scalable+Apps" alt="Typing Animation" />
 </h1>
 
 ---
 
-## 💫 About Me  
-I'm a **Full Stack Developer** passionate about creating intelligent, automated, and scalable digital solutions.  
-I love blending **modern web development** with **AI-driven automation**, bringing efficiency and innovation to every project.  
+<!-- About Section -->
+## 👨‍💻 About Me  
+
+I'm a **Full Stack Web Developer** specializing in **MERN, Next.js, and NestJS**, with a growing focus on **AI integrations** and **process automation**.  
+I love building intelligent web applications that automate workflows, enhance user experience, and scale efficiently.  
+
+💡 I work with cutting-edge technologies like **Supabase**, **N8N**, and **OpenAI APIs** to create AI-powered chatbots and automated solutions.  
+🚀 Currently, I’m open to **Junior Backend** or **AI Integration Developer** roles where I can continue learning and contributing to impactful products.
 
 ---
 
-## 🧠 Core Expertise  
+<!-- Skills Section -->
+## 🧠 Core Skills  
 
-- **Frontend Development:**  
-  Next.js · React.js · Tailwind CSS · Framer Motion · shadcn/ui  
+### ⚡ Frontend Development  
+Next.js · React.js · TypeScript · Tailwind CSS · Framer Motion · shadcn/ui  
 
-- **Backend Development:**  
-  NestJS · Express.js · Node.js  
+### 🛠 Backend Development  
+NestJS · Node.js · Express.js · REST APIs · Authentication (JWT, Passport, NextAuth)  
 
-- **Databases:**  
-  PostgreSQL · MongoDB · Prisma · Supabase  
+### 🧩 Databases & ORMs  
+PostgreSQL · MongoDB · Prisma ORM · Supabase  
 
-- **Authentication & Authorization:**  
-  JWT · Passport.js · NextAuth · Role-Based Access Control (RBAC)  
+### 🤖 AI & Automation  
+OpenAI API · Chatbots · LangChain · N8N Workflows · AI-Powered Automation  
 
-- **AI & Automation:**  
-  N8N · OpenAI API · Chatbots · AI-powered Workflows · LangChain Integrations  
-
-- **DevOps & Deployment:**  
-  Docker · GitHub Actions · CI/CD · Railway · Vercel  
+### 🧰 DevOps & Tools  
+Docker · GitHub Actions · Railway · Vercel · Linux · CI/CD  
 
 ---
 
-## 🚀 Featured Projects  
-
-- **🎓 EduMaster** — Role-based school management system for teachers and students with marksheets and analytics.  
-- **🏫 Mixt Home Tutors** — Tutor booking platform with secure authentication and dynamic scheduling.  
-- **🤖 AI Automation Dashboard** — Automated workflows powered by **N8N** and **OpenAI API**.  
-- **🛒 Ecommerce App** — Scalable fullstack commerce solution built with **Next.js**, **NestJS**, and **Prisma**.  
-
----
-
-## ⚙️ Tech Stack Overview  
-
-`Next.js` • `NestJS` • `TypeScript` • `React` • `Prisma` • `PostgreSQL` •  
-`MongoDB` • `Supabase` • `N8N` • `OpenAI API` • `LangChain` • `Docker`
-
----
-
-## 📈 GitHub Stats  
+<!-- Tech Stack Badges -->
+## 🧩 Tech Stack  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulWaheed-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulWaheed-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWaheed-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,nestjs,express,postgres,mongodb,prisma,supabase,tailwind,docker,git,github" />
 </p>
 
 ---
 
+<!-- Projects Section -->
+## 🚀 Featured Work  
+
+- 🎓 **EduMaster LMS** — Role-based learning system with analytics, built with Next.js + NestJS + Prisma.  
+- 🧠 **AI Workflow Automator** — Task automation using **N8N**, **Supabase**, and **OpenAI API**.  
+- 🏫 **Mixt Home Tutors** — A tutor booking and scheduling system with 2FA authentication.  
+- 🪵 **Bin Ahmad Wood Work** — Custom portfolio CMS using **Next.js + MongoDB + Cloudinary**.  
+
+---
+
+<!-- GitHub Stats -->
+## 📊 GitHub Insights  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulWaheed-dev&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulWaheed-dev&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWaheed-dev&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+---
+
+<!-- Snake Animation -->
 ## 🐍 Contribution Animation  
 
 <p align="center">
@@ -69,18 +78,18 @@ I love blending **modern web development** with **AI-driven automation**, bringi
 
 ---
 
-## 👀 Profile Views  
+<!-- Contact Section -->
+## 🌐 Connect With Me  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulWaheed-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <a href="mailto:abwaheed.ahmed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abdulwaheed-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/AbdulWaheed-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## 💬 Let's Connect  
-
+<!-- Profile Views -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdulwaheed-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:abdulwaheed.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/AbdulWaheed-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=AbdulWaheed-dev&label=Profile%20Views&color=2F81F7&style=flat" alt="Profile Views"/>
 </p>
