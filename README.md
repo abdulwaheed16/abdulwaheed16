@@ -28,16 +28,16 @@ I love turning ideas into scalable, maintainable digital solutions — from slee
 `JavaScript` • `TypeScript` • `Python`
 
 #### 🖥️ Frontend
-`React` • `Next.js` • `Tailwind CSS` • `Redux Toolkit` • `RTK Query` • `Shadcn/UI` • `Bootstrap`
+`React` • `Next.js` • `Tailwind CSS` • `Shadcn/UI` • `Bootstrap`
 
 #### ⚙️ Backend
-`Node.js` • `Express.js` • `NestJS` • `NextAuth` • `JWT Auth` • `REST APIs`
+`Node.js` • `Express.js` • `NestJS` • `NextAuth` • `JWT Auth` • `Supabase` • `REST APIs` • `GraphQL APIs` 
 
 #### 🗄️ Databases & ORM
-`MongoDB` • `PostgreSQL` • `MySQL` • `Prisma ORM`
+`MongoDB` • `PostgreSQL` • `MySQL` • `Prisma ORM` • `Drizzle ORM` • `Google Sheets`
 
 #### ☁️ DevOps & Tools
-`Git` • `Docker` • `Linux` • `Cloudinary` • `Stripe API` • `Google Sheets API`
+`Git` • `Docker` • `Linux` 
 
 #### 🧠 Concepts
 `Microservices` • `SEO Optimization` • `Agile & Scrum` • `Headless CMS (Sanity, Contentful)`
@@ -88,5 +88,7 @@ PMAS–UAAR (2020 – 2024)
 </p>
 
 ---
+![snake animation](https://github.com/abdulwaheed16/abdulwaheed16/blob/output/github-contribution-grid-snake.svg)
+
 
 > “Consistency turns average into excellence.” – Abdul Waheed 🌱
