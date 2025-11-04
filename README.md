@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me  
 
-I’m **Abdul Waheed**, a passionate **Full Stack Web Developer, MERN + NextJs** who loves creating intelligent, scalable, and human-centered web applications.  
+I’m **Abdul Waheed**, a **Full Stack Web Developer, MERN + NextJs** who loves creating intelligent, scalable, and human-centered web applications.  
 
 My work revolves around connecting systems, simplifying workflows, and blending AI with modern web technologies. From developing full-featured dashboards to integrating AI chatbots and automating backend pipelines — I enjoy turning ideas into smart digital products.  
 
@@ -71,15 +71,6 @@ PostgreSQL • MongoDB • MySQL • Supabase • Prisma ORM • Drizzle ORM
 - ⚙️ **JavaScript Mastery Course** – *Udemy (2022)*  
 - 🤖 **Certified Agentic & Robotic AI Engineer** – *PIAIC (2025–Present)*  
   Learning advanced **Agentic AI systems**, **automation**, and **AI integration pipelines**.
-
----
-
-## 🧠 Let’s Collaborate On  
-
-- 💬 AI-Powered SaaS Applications  
-- ⚙️ Automation Tools & Chatbot Integrations (n8n, Supabase, OpenAI)  
-- 🧩 Scalable Backend Systems using NestJS & Prisma  
-- 🚀 Fullstack Products with Intelligent & Automated Features  
 
 ---
 
