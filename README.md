@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FFB3&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abdul+Waheed!;Full+Stack+MERN+%26+Next.js+Developer;Backend+%7C+NestJS+%7C+TypeScript+%7C+Prisma;AI+Integrations+%7C+Chatbots+%7C+Automation;Let's+Build+Something+Intelligent+Together!+🚀" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FFB3&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abdul+Waheed!;Full+Stack+MERN+%26+Next.js+Developer;AI+Integrations+%7C+Chatbots+%7C+Automation;" alt="Typing Animation">
 </h1>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me  
 
-I’m **Abdul Waheed**, a passionate **Full Stack Web Developer** and **AI Automation Engineer** who loves creating intelligent, scalable, and human-centered web applications.  
+I’m **Abdul Waheed**, a passionate **Full Stack Web Developer, MERN + NextJs** who loves creating intelligent, scalable, and human-centered web applications.  
 
 My work revolves around connecting systems, simplifying workflows, and blending AI with modern web technologies. From developing full-featured dashboards to integrating AI chatbots and automating backend pipelines — I enjoy turning ideas into smart digital products.  
 
@@ -33,19 +33,19 @@ My work revolves around connecting systems, simplifying workflows, and blending 
 ## ⚙️ Skills Overview  
 
 ### 🖥️ Frontend Development  
-Next.js • React.js • TypeScript • Tailwind CSS • Shadcn/UI • Redux Toolkit • RTK Query • Framer Motion  
+Next.js • React.js • TypeScript • Tailwind CSS • Shadcn/UI • RTK • RTK Query • Zustand • Framer Motion  
 
 ### ⚙️ Backend Development  
-Node.js • NestJS • Express.js • RESTful APIs • NextAuth • JWT Authentication • Role-Based Access Control (RBAC)  
+Node.js • Express.js • NestJS • RESTful APIs • NextAuth • JWT Authentication • Role-Based Access Control (RBAC)  
 
 ### 🧠 AI & Automation  
 OpenAI API • Chatbot Integrations • LangChain • AI Agents • n8n Workflow Automations • Supabase Edge Functions • Webhooks • Event-driven Automations  
 
 ### 🗄️ Databases & ORM  
-PostgreSQL • MongoDB • MySQL • Supabase • Prisma ORM  
+PostgreSQL • MongoDB • MySQL • Supabase • Prisma ORM • Drizzle ORM  
 
 ### ☁️ DevOps & Integrations  
-Docker • GitHub Actions • Railway • Vercel • Cloudinary • Stripe API • Google Sheets API • Linux  
+• Linux • Docker • GitHub Actions • Vercel • Netlify • Cloudinary • Stripe API • Google Sheets API • Youtube ...etc   
 
 ---
 
