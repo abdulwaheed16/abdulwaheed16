@@ -85,19 +85,4 @@ PostgreSQL • MongoDB • MySQL • Supabase • Prisma ORM • Drizzle ORM
 
 ---
 
-## GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abdulwaheed16/abdulwaheed16/output/github-contribution-snake.svg" alt="GitHub Snake Animation" />
-</p>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulwaheed16/abdulwaheed16/output/github-contribution-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulwaheed16/abdulwaheed16/output/github-contribution-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/abdulwaheed16/abdulwaheed16/output/github-contribution-snake.svg">
-</picture>
-
----
-
 > “The future belongs to those who can automate it.” — *Abdul Waheed ⚡*
