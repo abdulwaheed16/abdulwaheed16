@@ -1,95 +1,105 @@
-<!-- Header Section -->
+<!-- Animated Name Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=👋+Hi!+I'm+Abdul+Waheed;Full+Stack+Web+Developer;AI+Automation+Engineer;Building+Intelligent+and+Scalable+Apps" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdul+Waheed!;Full+Stack+MERN+%26+Next.js+Developer;Backend+%7C+NestJS+%7C+TypeScript+%7C+Prisma;AI+Integrations+%7C+Chatbots+%7C+Automation;Let's+Build+Something+Intelligent+Together!+🚀" alt="Typing SVG">
 </h1>
 
----
-
-<!-- About Section -->
-## 👨‍💻 About Me  
-
-I'm a **Full Stack Web Developer** specializing in **MERN, Next.js, and NestJS**, with a growing focus on **AI integrations** and **process automation**.  
-I love building intelligent web applications that automate workflows, enhance user experience, and scale efficiently.  
-
-💡 I work with cutting-edge technologies like **Supabase**, **N8N**, and **OpenAI APIs** to create AI-powered chatbots and automated solutions.  
-🚀 Currently, I’m open to **Junior Backend** or **AI Integration Developer** roles where I can continue learning and contributing to impactful products.
-
----
-
-<!-- Skills Section -->
-## 🧠 Core Skills  
-
-### ⚡ Frontend Development  
-Next.js · React.js · TypeScript · Tailwind CSS · Framer Motion · shadcn/ui  
-
-### 🛠 Backend Development  
-NestJS · Node.js · Express.js · REST APIs · Authentication (JWT, Passport, NextAuth)  
-
-### 🧩 Databases & ORMs  
-PostgreSQL · MongoDB · Prisma ORM · Supabase  
-
-### 🤖 AI & Automation  
-OpenAI API · Chatbots · LangChain · N8N Workflows · AI-Powered Automation  
-
-### 🧰 DevOps & Tools  
-Docker · GitHub Actions · Railway · Vercel · Linux · CI/CD  
-
----
-
-<!-- Tech Stack Badges -->
-## 🧩 Tech Stack  
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,nestjs,express,postgres,mongodb,prisma,supabase,tailwind,docker,git,github" />
+  <a href="mailto:abwaheed.ahmed@gmail.com"><img src="https://img.shields.io/badge/Gmail-abwaheed.ahmed%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://wa.me/923120012250"><img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/abdulwaheed16/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
 
-<!-- Projects Section -->
-## 🚀 Featured Work  
+### 👨‍💻 About Me
 
-- 🎓 **EduMaster LMS** — Role-based learning system with analytics, built with Next.js + NestJS + Prisma.  
-- 🧠 **AI Workflow Automator** — Task automation using **N8N**, **Supabase**, and **OpenAI API**.  
-- 🏫 **Mixt Home Tutors** — A tutor booking and scheduling system with 2FA authentication.  
-- 🪵 **Bin Ahmad Wood Work** — Custom portfolio CMS using **Next.js + MongoDB + Cloudinary**.  
+I’m a **Full Stack Web Developer** focused on building **modern, intelligent, and scalable applications**.  
+I specialize in **MERN**, **Next.js**, and **NestJS**, and I’m expanding my expertise in **AI integrations**, **chatbots**, and **workflow automations** using tools like **n8n** and **Supabase**.  
 
----
+I love connecting systems together — whether it’s creating a full-featured web app, automating tasks with APIs, or integrating AI agents to enhance user experience.
 
-<!-- GitHub Stats -->
-## 📊 GitHub Insights  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulWaheed-dev&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulWaheed-dev&theme=tokyonight&hide_border=true" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWaheed-dev&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</p>
+> 💡 *Currently open to Junior Backend or AI Integration Developer roles.*
 
 ---
 
-<!-- Snake Animation -->
-## 🐍 Contribution Animation  
+### ⚙️ Tech Stack
+
+#### 🧩 Languages
+`JavaScript` • `TypeScript` • `Python`
+
+#### 🖥️ Frontend
+`React` • `Next.js` • `Tailwind CSS` • `Shadcn/UI` • `Redux Toolkit` • `RTK Query` • `Bootstrap`
+
+#### ⚙️ Backend
+`Node.js` • `Express.js` • `NestJS` • `NextAuth` • `JWT Auth` • `REST APIs`
+
+#### 🧠 AI & Automation
+`OpenAI API` • `Chatbot Integrations` • `LangChain` • `AI Agents` • `AI Automations`  
+`n8n` • `Supabase Edge Functions` • `Webhooks` • `Workflow Triggers` • `Automation Pipelines`
+
+#### 🗄️ Databases & ORM
+`PostgreSQL` • `MongoDB` • `Supabase` • `MySQL` • `Prisma ORM`
+
+#### ☁️ DevOps & Tools
+`Git` • `Docker` • `Linux` • `Cloudinary` • `Stripe API` • `Google Sheets API`
+
+#### 🧩 Concepts
+`Microservices` • `SEO Optimization` • `Agile & Scrum` • `Headless CMS (Sanity, Contentful)`  
+`AI Integration Architecture` • `Event-driven Automations`
+
+---
+
+### 🌱 What I’m Working On
+- Building **AI-integrated web applications** using **Next.js + OpenAI + Supabase**
+- Creating **automation workflows** with **n8n** for businesses & backend pipelines
+- Learning **Agentic AI applications** from the **PIAIC Certified Program**
+
+---
+
+### 🏫 Education
+**Bachelor of Computer Science (Software Engineering)**  
+PMAS–UAAR (2020 – 2024)
+
+---
+
+### 🏅 Certifications
+- **Web 2.0 Developer Program** – *PIAIC (2022–2023)*  
+  Built Full Stack eCommerce and microservice applications.
+- **JavaScript Mastery Course** – *Udemy (2022)*  
+- **Certified Agentic & Robotic AI Engineer** – *PIAIC (2025–Present)*  
+  Focusing on building Agentic AI & automation-driven systems.
+
+---
+
+### 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://github.com/AbdulWaheed-dev/AbdulWaheed-dev/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulwaheed16&theme=react-dark&hide_border=true&area=true" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwaheed16&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwaheed16&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
 </p>
 
 ---
 
-<!-- Contact Section -->
-## 🌐 Connect With Me  
+### 🧠 Let’s Collaborate On
+- AI-Powered SaaS Products  
+- Automation Tools & Integrations (n8n, Supabase, OpenAI)  
+- Scalable Backend Systems  
+- Fullstack Applications with Intelligent Features  
+
+---
+
+### 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:abwaheed.ahmed@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abdulwaheed-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/AbdulWaheed-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:abwaheed.ahmed@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://wa.me/923120012250"><img src="https://img.shields.io/badge/WhatsApp%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://github.com/abdulwaheed16"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
 
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulWaheed-dev&label=Profile%20Views&color=2F81F7&style=flat" alt="Profile Views"/>
-</p>
+> “The future belongs to those who can automate it.” – Abdul Waheed ⚡
