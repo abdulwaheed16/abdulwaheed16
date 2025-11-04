@@ -1,94 +1,86 @@
-<!-- Animated Name Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FFB3&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Abdul+Waheed!;Full+Stack+MERN+%26+Next.js+Developer;Backend+%7C+NestJS+%7C+TypeScript+%7C+Prisma;Let's+Build+Something+Amazing+Together!+🚀" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+Abdul+Waheed;Full+Stack+Developer;AI+Automation+Engineer;Building+Smart+Digital+Solutions!" />
 </h1>
 
+---
+
+## 💫 About Me  
+I'm a **Full Stack Developer** passionate about creating intelligent, automated, and scalable digital solutions.  
+I love blending **modern web development** with **AI-driven automation**, bringing efficiency and innovation to every project.  
+
+---
+
+## 🧠 Core Expertise  
+
+- **Frontend Development:**  
+  Next.js · React.js · Tailwind CSS · Framer Motion · shadcn/ui  
+
+- **Backend Development:**  
+  NestJS · Express.js · Node.js  
+
+- **Databases:**  
+  PostgreSQL · MongoDB · Prisma · Supabase  
+
+- **Authentication & Authorization:**  
+  JWT · Passport.js · NextAuth · Role-Based Access Control (RBAC)  
+
+- **AI & Automation:**  
+  N8N · OpenAI API · Chatbots · AI-powered Workflows · LangChain Integrations  
+
+- **DevOps & Deployment:**  
+  Docker · GitHub Actions · CI/CD · Railway · Vercel  
+
+---
+
+## 🚀 Featured Projects  
+
+- **🎓 EduMaster** — Role-based school management system for teachers and students with marksheets and analytics.  
+- **🏫 Mixt Home Tutors** — Tutor booking platform with secure authentication and dynamic scheduling.  
+- **🤖 AI Automation Dashboard** — Automated workflows powered by **N8N** and **OpenAI API**.  
+- **🛒 Ecommerce App** — Scalable fullstack commerce solution built with **Next.js**, **NestJS**, and **Prisma**.  
+
+---
+
+## ⚙️ Tech Stack Overview  
+
+`Next.js` • `NestJS` • `TypeScript` • `React` • `Prisma` • `PostgreSQL` •  
+`MongoDB` • `Supabase` • `N8N` • `OpenAI API` • `LangChain` • `Docker`
+
+---
+
+## 📈 GitHub Stats  
+
 <p align="center">
-  <a href="mailto:abwaheed.ahmed@gmail.com"><img src="https://img.shields.io/badge/Gmail-abwaheed.ahmed%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://wa.me/923120012250"><img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/abdulwaheed16/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulWaheed-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulWaheed-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulWaheed-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-I’m a **Full Stack Web Developer** passionate about creating modern, high-performance web applications.  
-I specialize in **MERN**, **Next.js**, and **NestJS**, and I’m currently expanding into **AI-powered web development** (Generative & Agentic AI at PIAIC).
-
-I love turning ideas into scalable, maintainable digital solutions — from sleek UIs to powerful backend systems.
-
-> 💡 *Currently open to Junior Backend Developer roles.*
-
----
-
-### ⚙️ Tech Stack
-
-#### 🧩 Languages
-`JavaScript` • `TypeScript` • `Python`
-
-#### 🖥️ Frontend
-`React` • `Next.js` • `Tailwind CSS` • `Shadcn/UI` • `Bootstrap`
-
-#### ⚙️ Backend
-`Node.js` • `Express.js` • `NestJS` • `NextAuth` • `JWT Auth` • `Supabase` • `REST APIs` • `GraphQL APIs` 
-
-#### 🗄️ Databases & ORM
-`MongoDB` • `PostgreSQL` • `MySQL` • `Prisma ORM` • `Drizzle ORM` • `Google Sheets`
-
-#### ☁️ DevOps & Tools
-`Git` • `Docker` • `Linux` 
-
-#### 🧠 Concepts
-`Microservices` • `SEO Optimization` • `Agile & Scrum` • `Headless CMS (Sanity, Contentful)`
-
----
-
-### 🏫 Education
-**Bachelor of Computer Science (Software Engineering)**  
-PMAS–UAAR (2020 – 2024)
-
----
-
-### 🏅 Certifications
-- **Web 2.0 Developer Program** – *PIAIC (2022–2023)*  
-  Built Full Stack eCommerce solutions with Docker & Microservices.
-- **JavaScript Mastery Course** – *Udemy (2022)*  
-- **Certified Agentic & Robotic AI Engineer** – *PIAIC (2025–Present)*  
-  Learning how to build AI-driven agentic applications.
-
----
-
-### 🌱 What I’m Working On
-- Building production-ready web applications using **Next.js + NestJS**
-- Learning **Agentic AI integration** for real-world apps
-- Improving backend scalability and code architecture
-
----
-
-### 📊 GitHub Contributions
+## 🐍 Contribution Animation  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulwaheed16&theme=react-dark&hide_border=true&area=true" width="90%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwaheed16&theme=tokyonight&hide_border=true" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwaheed16&layout=compact&theme=tokyonight&hide_border=true" width="45%"/>
+  <img src="https://github.com/AbdulWaheed-dev/AbdulWaheed-dev/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
 </p>
 
 ---
 
-### 🤝 Let’s Connect
+## 👀 Profile Views  
 
 <p align="center">
-  <a href="mailto:abwaheed.ahmed@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://wa.me/923120012250"><img src="https://img.shields.io/badge/WhatsApp%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://github.com/abdulwaheed16"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+  <img src="https://komarev.com/ghpvc/?username=AbdulWaheed-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 ---
-![snake animation](https://github.com/abdulwaheed16/abdulwaheed16/blob/output/github-contribution-grid-snake.svg)
 
+## 💬 Let's Connect  
 
-> “Consistency turns average into excellence.” – Abdul Waheed 🌱
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdulwaheed-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:abdulwaheed.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/AbdulWaheed-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
